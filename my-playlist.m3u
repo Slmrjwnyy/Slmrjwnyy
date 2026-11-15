@@ -1,99 +1,84 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 #PLAYLIST:my-playlist
 # Built with the CODECS.COM Playlist Builder
 
-#EXTINF:-1,GMA 7
-GMA 7
+#EXTINF:-1 group-title="Slmrjwnyy",JONNIE SILMARO CHANNEL
+Slmrjwnyy
 
-#EXTINF:-1,KAPAMILYA
-KAPAMILYA
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Slmrjwnyy",GMA 7
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,KAPATID
-KAPATID
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Slmrjwnyy",GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,CINEMO
-CINEMO
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/alltv-philippines-202424700.logowik.com.webp" group-title="Jonnie’s Channel",ALL TV 2
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,ANIMAX
-ANIMAX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Slmrjwnyy",TV5
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,JEEPNEY TV
-JEEPNEY TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Slmrjwnyy",Cinema One
+http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,CINEMA 1
-CINEMA 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="Slmrjwnyy",PBA RUSH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1,PBO
-PBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="Slmrjwnyy",UAAP Varsity Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
 
-#EXTINF:-1,CINEMAX
-CINEMAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Cignal HD",Kapamilya Channel HD
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,FOX MOVIES
-FOX MOVIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Cignal HD",HBO
+http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,HBO
-HBO
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="Cignal HD",HBO Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 
-#EXTINF:-1,WARNER BROS
-WARNER BROS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="Cignal HD",NBA TV Philippines HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
+https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
-#EXTINF:-1,DISNEY
-DISNEY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="Cignal HD",One Sports
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,CNN
-CNN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Cignal HD",One Sports+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
-#EXTINF:-1,NICK JR
-NICK JR
+#EXTINF:-1 tvg-id="cartoon_net_hd" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="Cignal HD",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67
+https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd
 
-#EXTINF:-1,99
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Jonnie’s Channel",PBO
+http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,100
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+#EXTINF:-1 tvg-logo="https://www.meainbacolod.com/wp-content/uploads/2019/08/One-PH-logo-1-1024x791.png" group-title="Jonnie’s Channel",One Ph
+http://136.239.173.2:6610/001/2/ch00000090990000001198/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001418&contentid=ch00000000000000001418&videoid=ch00000090990000001198&recommendtype=0&userid=1529671159516&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P4UJ3LAHAFIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,102
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="Jonnie’s Channel",Solar Sport
+http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,127
-http://202.57.43.60:8443/live/5748aabe4C9d661afbd7f4068248f664/127.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Jonnie’s Channel",Channel News Asia
+http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,125
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Jonnie’s Channel",Cinemax
+http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,106
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Jonnie’s Channel",Cartoonito
+http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1,109
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
-
-#EXTINF:-1,110
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
-
-#EXTINF:-1,111
-http://202.57.43.60:8443/1ive/5748aabe4c9d661afbd7f4068248f664/111.m3u8
-
-#EXTINF:-1,112
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
-
-#EXTINF:-1,113
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
-
-#EXTINF:-1,132
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
-
-#EXTINF:-1,126
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
-
-#EXTINF:-1,104
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
-
-#EXTINF:-1,105
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
-
-#EXTINF:-1,136
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8%0AFOX%202%0Ahttp://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/117.m3u8%0ASOLAR%20CHANNEL%20-%0Ahttp://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8%0AFOX%20SPORTS%0Ahttp://202.57.43.60:8443/1ive/5748aabe4c9d661afbd7f4068248f664/119.m3u8%0AAXN%0Ahttp://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8%0ANBA%0Ahttp://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8%0APBA%20RUSH%0Ahttp://202.57.43.60:8443/1ive/5748aabe4c9d661afbd7f4068248f664/122.m3u8%0ANATGEO%0Ahttp://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8%0AKBS%0Ahttp://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/131.m3u8%0AKNOWLEDGE%20CHANNEL%0Ahttp://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/135.m3u8%0AZOOMOO%0Ahttp://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/136.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Jonnie’s Channel",Cinemo!
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
